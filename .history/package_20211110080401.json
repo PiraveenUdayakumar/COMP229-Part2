@@ -1,0 +1,8 @@
+{
+  "name": "COMP229",
+  "version": "0.0.1",
+  "description": "Demo Project for COMP229",
+  "main": "index.js",
+  "author": "Piraveen Udayakumar",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "comp229",
+  "version": "0.0.1",
+  "description": "Demo Project for COMP229",
+  "main": "index.js",
+  "author": "Piraveen Udayakumar",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.7"
+  }
+}
